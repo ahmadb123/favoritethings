@@ -195,6 +195,7 @@ footer p {
 
     header {
         text-align: center;
+        font-size: 80%;
     }
 
     #logoimage {
@@ -213,11 +214,10 @@ footer p {
     }
 
     article {
-        width: 100%;
+        max-width: 800px;
+        width: 135%;
+        border: none;
+        box-shadow: none;
     }
 
-    .videowrapper {
-        width: 100%;
-        border: none;
-    }
 }
